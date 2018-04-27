@@ -3,6 +3,7 @@
 #puporse:      求解ax^2 + bx = c
 #练习重点:     if elif else
 # Created:     22/04/2018
+#coding:       utf-8
 #-------------------------------------------------------------------------
 import math#引用
 a = float(raw_input("a:"))
